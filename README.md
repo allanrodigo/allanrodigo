@@ -13,7 +13,7 @@
 - 📧 contact: allanrdg6@gmail.com
 
 
-##
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" align="center" width="1400">
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=allanrodigo&theme=vue-dark&show_icons=true" align="left">
