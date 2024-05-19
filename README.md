@@ -6,11 +6,11 @@
   
 <h3>🙋🏻‍♂️&nbsp;About Me:</h3>
 
-- 👨‍💻 
-- 📚 
-- 🎓 
-- 🎓 
-- 📧 
+- 🎓 I'm currently studying Computer Science, I'm in the 7th period.
+- 🌐 I speak Portuguese, English and I am learning French.
+- 👨🏻‍💻 Focus on Python development aimed at artificial intelligence
+- 🪄 Programming languages are just **tools**, I always choose the one that suits me best for such a problem.
+- 📧 contact: allanrdg6@gmail.com
 
 
 ##
