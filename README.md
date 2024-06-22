@@ -11,10 +11,13 @@
 - 📧 contact: allanrdg6@gmail.com
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0372.gif" align="center" width="1400">
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" align=center style="width: 900px" border="0" alt="animated-line-image-0382" /></a>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=allanrodigo&theme=vue-dark&show_icons=true" align="left">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=allanrodigo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact'>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=allanrodigo&theme=algolia&show_icons=true" style="height: 195px; margin-right: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanrodigo&theme=algolia&show_icons=true&hide_border=true&layout=compact" style="height: 195px;">
+</div>
+
 
 
