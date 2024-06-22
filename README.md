@@ -15,8 +15,8 @@
 
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanrodigo&theme=algolia&show_icons=true" style="height: 195px; margin-right: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanrodigo&theme=algolia&show_icons=true&hide_border=true&layout=compact" style="height: 195px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=allanrodigo&theme=algolia&show_icons=true" style="height: 150px; margin-right: 100px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanrodigo&theme=algolia&show_icons=true&hide_border=true&layout=compact" style="height: 150px;">
 </div>
 
 
